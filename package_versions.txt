@@ -107,7 +107,7 @@ nginx-mod-stream-1.14.2-r1
 nginx-mod-stream-geoip-1.14.2-r1
 nginx-vim-1.14.2-r1
 npth-1.6-r0
-openssl-1.1.1b-r1
+openssl-1.1.0j
 p11-kit-0.23.14-r0
 pcre-8.42-r1
 pcre2-10.32-r1
